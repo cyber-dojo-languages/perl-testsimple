@@ -4,7 +4,7 @@
 
   "visible_filenames": [
     "hiker.t",
-    "hiker.perl",
+    "hiker.pl",
     "cyber-dojo.sh"
   ],
 
@@ -12,7 +12,7 @@
 
   "runner_choice": "stateless",
 
-  "filename_extension" : ".pl",
+  "filename_extension": [ ".pl", ".t" ],
 
   "tab_size": 4
 }
