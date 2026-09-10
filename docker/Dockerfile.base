@@ -1,2 +1,2 @@
-FROM ghcr.io/cyber-dojo-languages/perl:8aa0d6c
+FROM ghcr.io/cyber-dojo-languages/perl:87b78c9
 LABEL maintainer=jon@jaggersoft.com
